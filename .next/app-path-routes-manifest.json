@@ -1,0 +1,22 @@
+{
+  "/_not-found": "/_not-found",
+  "/page": "/",
+  "/next/exit-preview/route": "/next/exit-preview",
+  "/next/preview/route": "/next/preview",
+  "/next/revalidate/route": "/next/revalidate",
+  "/(pages)/logout/page": "/logout",
+  "/(pages)/reset-password/page": "/reset-password",
+  "/(pages)/account/page": "/account",
+  "/(pages)/styleguide/page": "/styleguide",
+  "/(pages)/recover-password/page": "/recover-password",
+  "/(pages)/login/page": "/login",
+  "/(pages)/[slug]/page": "/[slug]",
+  "/(pages)/projects/[slug]/page": "/projects/[slug]",
+  "/(pages)/posts/[slug]/page": "/posts/[slug]",
+  "/(pages)/styleguide/buttons/page": "/styleguide/buttons",
+  "/(pages)/styleguide/call-to-action/page": "/styleguide/call-to-action",
+  "/(pages)/styleguide/content-block/page": "/styleguide/content-block",
+  "/(pages)/styleguide/media-block/page": "/styleguide/media-block",
+  "/(pages)/styleguide/message/page": "/styleguide/message",
+  "/(pages)/styleguide/typography/page": "/styleguide/typography"
+}
