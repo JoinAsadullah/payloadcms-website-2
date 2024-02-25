@@ -1,4 +1,9 @@
 {
+    "functions": {
+        "dist/server.js": {
+            "runtime": "Node.js"
+        }
+    },
     "routes": [
       { "src": "/.*", "dest": "/my-api.js" }
     ]
