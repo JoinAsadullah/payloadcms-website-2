@@ -1,7 +1,7 @@
 {
     "functions": {
         "dist/server.js": {
-            "runtime": "Node.js"
+            "runtime": "Node.js 20.x"
         }
     },
     "routes": [
